@@ -1,1 +1,6 @@
 # FacialKeyPointDetection
+The advancement of Deep Learning has brought many advantages to other areas of computer science.  Regarding computer graphics, face key-point detection systems have always been constrained by the use of incredibly complicated algorithms. The ease of developing such systems is improved by deep learning techniques. And multiple facial key-point detection systems can be created as long as different training data is used in the appropriate neural networks.
+
+
+
+Facial key-point detection is based on a neural network that is used to predict facial landmarks on a human face either in an image or video. This has always been evolving for years due to the widespread use of face filters and facial recognition for security. This project is an effort in the field of deep learning and computer vision. The aim of this project is to find the most optimal convolutional neural network model that will accurately predict 68 facial landmarks. The main objective is to test several models and associated hyperparameters to develop a model that can accurately identify facial landmarks in any facial image. Additionally, this initiative bases its methodology on Deep Learning techniques rather than other, more traditional approaches.
